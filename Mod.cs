@@ -10,6 +10,8 @@ namespace GoldenFoodsNS
         public override void Ready()
         {
             WorldManager.instance.GameDataLoader.AddCardToSetCardBag(SetCardBagType.CookingIdea, "goldenfoods_blueprint_golden_berry", 1);
+            WorldManager.instance.GameDataLoader.AddCardToSetCardBag(SetCardBagType.CookingIdea, "goldenfoods_blueprint_golden_apple", 1);
+            WorldManager.instance.GameDataLoader.AddCardToSetCardBag(SetCardBagType.CookingIdea, "goldenfoods_blueprint_golden_banana", 1);
             Logger.Log("Ready!");
         }
     }
