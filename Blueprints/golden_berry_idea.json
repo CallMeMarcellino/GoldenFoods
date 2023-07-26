@@ -1,0 +1,13 @@
+{
+    "id": "goldenfoods_blueprint_golden_berry",
+    "nameTerm": "goldenfoods_golden_berry_name",
+    "group": "Cooking",
+    "subprints": [
+      {
+        "RequiredCards": "gold_bar, berry",
+        "ResultCard": "goldenfoods_golden_berry",
+        "Time": 10,
+        "StatusTerm": "goldenfoods_idea_golden_berry_status"
+      }
+    ]
+  }
