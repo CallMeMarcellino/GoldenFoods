@@ -6,7 +6,7 @@
       {
         "RequiredCards": "gold_bar, berry",
         "ResultCard": "goldenfoods_golden_berry",
-        "Time": 10,
+        "Time": 45,
         "StatusTerm": "goldenfoods_idea_golden_berry_status"
       }
     ]

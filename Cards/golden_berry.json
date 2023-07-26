@@ -3,11 +3,11 @@
   "nameTerm": "goldenfoods_golden_berry_name",
   "descriptionTerm": "goldenfoods_golden_berry_description",
   "icon": "berry",
-  "value": 10,
+  "value": 9,
   "type": "Food",
   "script": "Food",
   "_CanSpoil": false,
-  "_FoodValue": 10,
+  "_FoodValue":5,
   "_HasUniquePalette": true,
   "_MyPalette": {
     "Color": "#FFE299",
