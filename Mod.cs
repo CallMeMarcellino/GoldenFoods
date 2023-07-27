@@ -14,7 +14,8 @@ namespace GoldenFoodsNS
             WorldManager.instance.GameDataLoader.AddCardToSetCardBag(SetCardBagType.CookingIdea, "goldenfoods_blueprint_golden_banana", 1);
             WorldManager.instance.GameDataLoader.AddCardToSetCardBag(SetCardBagType.CookingIdea, "goldenfoods_blueprint_golden_cane_sugar", 1);
             WorldManager.instance.GameDataLoader.AddCardToSetCardBag(SetCardBagType.CookingIdea, "goldenfoods_blueprint_golden_bottle_of_rum", 1);
-            
+            WorldManager.instance.GameDataLoader.AddCardToSetCardBag(SetCardBagType.CookingIdea, "goldenfoods_blueprint_golden_carrot", 1);
+
             Logger.Log("Ready!");
         }
     }

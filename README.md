@@ -29,7 +29,7 @@ There aren't any food mods here yet
 |         [Berry](https://stacklands.fandom.com/wiki/Berry)         	| <ul><li>- [x] </li></ul> 	|
 | [Bottle of Rum](https://stacklands.fandom.com/wiki/Bottle_of_Rum) 	| <ul><li>- [x] </li></ul> 	|
 |    [Cane Sugar](https://stacklands.fandom.com/wiki/Cane_Sugar)    	| <ul><li>- [x] </li></ul> 	|
-|                               Carrot                              	| <ul><li>- [ ] </li></ul> 	|
+|                               Carrot                              	| <ul><li>- [x] </li></ul> 	|
 |                              Ceviche                              	| <ul><li>- [ ] </li></ul> 	|
 |                            Chili Pepper                           	| <ul><li>- [ ] </li></ul> 	|
 |                            Cooked Crab                            	| <ul><li>- [ ] </li></ul> 	|

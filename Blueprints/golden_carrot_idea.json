@@ -1,0 +1,13 @@
+{
+    "id": "goldenfoods_blueprint_golden_carrot",
+    "nameTerm": "goldenfoods_golden_carrot_name",
+    "group": "Cooking",
+    "subprints": [
+      {
+        "RequiredCards": "gold_bar, carrot",
+        "ResultCard": "goldenfoods_golden_carrot",
+        "Time": 45,
+        "StatusTerm": "goldenfoods_idea_golden_carrot_status"
+      }
+    ]
+  }
