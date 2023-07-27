@@ -3,11 +3,11 @@
   "nameTerm": "goldenfoods_golden_bottle_of_rum_name",
   "descriptionTerm": "goldenfoods_golden_bottle_of_rum_description",
   "icon": "bottle_of_rum",
-  "value": 9,
+  "value": 11,
   "type": "Food",
   "script": "Food",
   "_CanSpoil": false,
-  "_FoodValue": 5,
+  "_FoodValue": 6,
   "_HasUniquePalette": true,
   "_MyPalette": {
     "Color": "#FFE299",
