@@ -22,37 +22,37 @@ There aren't any food mods here yet
 <details>
 <summary>Foods Supported</summary>
 
-|                          **Golden Food**                          	| **Implemented?** 	|
-|:-----------------------------------------------------------------:	|:----------------:	|
-|         [Apple](https://stacklands.fandom.com/wiki/Apple)         	|       - [x]      	|
-|        [Banana](https://stacklands.fandom.com/wiki/Banana)        	|       - [x]      	|
-|         [Berry](https://stacklands.fandom.com/wiki/Berry)         	|       - [x]      	|
-| [Bottle of Rum](https://stacklands.fandom.com/wiki/Bottle_of_Rum) 	|       - [x]      	|
-|    [Cane Sugar](https://stacklands.fandom.com/wiki/Cane_Sugar)    	|       - [x]      	|
-|                               Carrot                              	|       - [ ]      	|
-|                              Ceviche                              	|       - [ ]      	|
-|                            Chili Pepper                           	|       - [ ]      	|
-|                            Cooked Crab                            	|       - [ ]      	|
-|                            Cooked Meat                            	|       - [ ]      	|
-|                                Egg                                	|       - [ ]      	|
-|                              Frittata                             	|       - [ ]      	|
-|                            Fruit Salad                            	|       - [ ]      	|
-|                            Grilled Fish                           	|       - [ ]      	|
-|                                Lime                               	|       - [ ]      	|
-|                                Milk                               	|       - [ ]      	|
-|                             Milkshake                             	|       - [ ]      	|
-|                              Mushroom                             	|       - [ ]      	|
-|                              Omelette                             	|       - [ ]      	|
-|                               Onion                               	|       - [ ]      	|
-|                               Potato                              	|       - [ ]      	|
-|                           Raw Crab Meat                           	|       - [ ]      	|
-|                              Raw Fish                             	|       - [ ]      	|
-|                              Raw Meat                             	|       - [ ]      	|
-|                            Seafood Stew                           	|       - [ ]      	|
-|                              Seaweed                              	|       - [ ]      	|
-|                                Stew                               	|       - [ ]      	|
-|                               Sushi                               	|       - [ ]      	|
-|                            Tamago Sushi                           	|       - [ ]      	|
+|                          **Golden Food**                          	|     **Implemented?**     	|
+|:-----------------------------------------------------------------:	|:------------------------:	|
+|         [Apple](https://stacklands.fandom.com/wiki/Apple)         	| <ul><li>- [x] </li></ul> 	|
+|        [Banana](https://stacklands.fandom.com/wiki/Banana)        	| <ul><li>- [x] </li></ul> 	|
+|         [Berry](https://stacklands.fandom.com/wiki/Berry)         	| <ul><li>- [x] </li></ul> 	|
+| [Bottle of Rum](https://stacklands.fandom.com/wiki/Bottle_of_Rum) 	| <ul><li>- [x] </li></ul> 	|
+|    [Cane Sugar](https://stacklands.fandom.com/wiki/Cane_Sugar)    	| <ul><li>- [x] </li></ul> 	|
+|                               Carrot                              	| <ul><li>- [ ] </li></ul> 	|
+|                              Ceviche                              	| <ul><li>- [ ] </li></ul> 	|
+|                            Chili Pepper                           	| <ul><li>- [ ] </li></ul> 	|
+|                            Cooked Crab                            	| <ul><li>- [ ] </li></ul> 	|
+|                            Cooked Meat                            	| <ul><li>- [ ] </li></ul> 	|
+|                                Egg                                	| <ul><li>- [ ] </li></ul> 	|
+|                              Frittata                             	| <ul><li>- [ ] </li></ul> 	|
+|                            Fruit Salad                            	| <ul><li>- [ ] </li></ul> 	|
+|                            Grilled Fish                           	| <ul><li>- [ ] </li></ul> 	|
+|                                Lime                               	| <ul><li>- [ ] </li></ul> 	|
+|                                Milk                               	| <ul><li>- [ ] </li></ul> 	|
+|                             Milkshake                             	| <ul><li>- [ ] </li></ul> 	|
+|                              Mushroom                             	| <ul><li>- [ ] </li></ul> 	|
+|                              Omelette                             	| <ul><li>- [ ] </li></ul> 	|
+|                               Onion                               	| <ul><li>- [ ] </li></ul> 	|
+|                               Potato                              	| <ul><li>- [ ] </li></ul> 	|
+|                           Raw Crab Meat                           	| <ul><li>- [ ] </li></ul> 	|
+|                              Raw Fish                             	| <ul><li>- [ ] </li></ul> 	|
+|                              Raw Meat                             	| <ul><li>- [ ] </li></ul> 	|
+|                            Seafood Stew                           	| <ul><li>- [ ] </li></ul> 	|
+|                              Seaweed                              	| <ul><li>- [ ] </li></ul> 	|
+|                                Stew                               	| <ul><li>- [ ] </li></ul> 	|
+|                               Sushi                               	| <ul><li>- [ ] </li></ul> 	|
+|                            Tamago Sushi                           	| <ul><li>- [ ] </li></ul> 	|
 </details>
 
 ### Future Plans
