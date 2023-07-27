@@ -1,0 +1,13 @@
+{
+    "id": "goldenfoods_blueprint_golden_bottle_of_rum",
+    "nameTerm": "goldenfoods_golden_bottle_of_rum_name",
+    "group": "Cooking",
+    "subprints": [
+      {
+        "RequiredCards": "gold_bar, bottle_of_rum",
+        "ResultCard": "goldenfoods_golden_bottle_of_rum",
+        "Time": 45,
+        "StatusTerm": "goldenfoods_idea_golden_bottle_of_rum_status"
+      }
+    ]
+  }

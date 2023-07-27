@@ -1,0 +1,17 @@
+{
+  "id": "goldenfoods_golden_bottle_of_rum",
+  "nameTerm": "goldenfoods_golden_bottle_of_rum_name",
+  "descriptionTerm": "goldenfoods_golden_bottle_of_rum_description",
+  "icon": "bottle_of_rum",
+  "value": 9,
+  "type": "Food",
+  "script": "Food",
+  "_CanSpoil": false,
+  "_FoodValue": 5,
+  "_HasUniquePalette": true,
+  "_MyPalette": {
+    "Color": "#FFE299",
+    "Color2": "#F8C74A",
+    "Icon": "#000000"
+  }
+}
