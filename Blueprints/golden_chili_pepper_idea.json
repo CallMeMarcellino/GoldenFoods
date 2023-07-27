@@ -1,0 +1,13 @@
+{
+    "id": "goldenfoods_blueprint_golden_chili_pepper",
+    "nameTerm": "goldenfoods_golden_chili_pepper_name",
+    "group": "Cooking",
+    "subprints": [
+      {
+        "RequiredCards": "gold_bar, chili_pepper",
+        "ResultCard": "goldenfoods_golden_chili_pepper",
+        "Time": 45,
+        "StatusTerm": "goldenfoods_idea_golden_chili_pepper_status"
+      }
+    ]
+  }

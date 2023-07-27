@@ -30,8 +30,8 @@ There aren't any food mods here yet
 | [Bottle of Rum](https://stacklands.fandom.com/wiki/Bottle_of_Rum) 	| <ul><li>- [x] </li></ul> 	|
 |    [Cane Sugar](https://stacklands.fandom.com/wiki/Cane_Sugar)    	| <ul><li>- [x] </li></ul> 	|
 |                               Carrot                              	| <ul><li>- [x] </li></ul> 	|
-|                              Ceviche                              	| <ul><li>- [ ] </li></ul> 	|
-|                            Chili Pepper                           	| <ul><li>- [ ] </li></ul> 	|
+|                              Ceviche                              	| <ul><li>- [x] </li></ul> 	|
+|                            Chili Pepper                           	| <ul><li>- [x] </li></ul> 	|
 |                            Cooked Crab                            	| <ul><li>- [ ] </li></ul> 	|
 |                            Cooked Meat                            	| <ul><li>- [ ] </li></ul> 	|
 |                                Egg                                	| <ul><li>- [ ] </li></ul> 	|

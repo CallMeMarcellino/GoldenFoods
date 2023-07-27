@@ -1,0 +1,13 @@
+{
+    "id": "goldenfoods_blueprint_golden_ceviche",
+    "nameTerm": "goldenfoods_golden_ceviche_name",
+    "group": "Cooking",
+    "subprints": [
+      {
+        "RequiredCards": "gold_bar, ceviche",
+        "ResultCard": "goldenfoods_golden_ceviche",
+        "Time": 45,
+        "StatusTerm": "goldenfoods_idea_golden_ceviche_status"
+      }
+    ]
+  }

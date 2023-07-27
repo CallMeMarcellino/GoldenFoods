@@ -1,0 +1,17 @@
+{
+  "id": "goldenfoods_golden_chili_pepper",
+  "nameTerm": "goldenfoods_golden_chili_pepper_name",
+  "descriptionTerm": "goldenfoods_golden_chili_pepper_description",
+  "icon": "chili_pepper",
+  "value": 10,
+  "type": "Food",
+  "script": "Food",
+  "_CanSpoil": false,
+  "_FoodValue": 5,
+  "_HasUniquePalette": true,
+  "_MyPalette": {
+    "Color": "#FFE299",
+    "Color2": "#F8C74A",
+    "Icon": "#000000"
+  }
+}
