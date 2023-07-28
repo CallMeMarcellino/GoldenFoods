@@ -1,0 +1,13 @@
+{
+    "id": "goldenfoods_blueprint_golden_sugar_cane",
+    "nameTerm": "goldenfoods_golden_sugar_cane_name",
+    "group": "Cooking",
+    "subprints": [
+      {
+        "RequiredCards": "gold_bar, sugar_cane",
+        "ResultCard": "goldenfoods_golden_sugar_cane",
+        "Time": 45,
+        "StatusTerm": "goldenfoods_idea_golden_sugar_cane_status"
+      }
+    ]
+  }
