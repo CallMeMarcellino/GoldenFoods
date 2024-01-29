@@ -2,8 +2,6 @@
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/CallMeMarcellino/GoldenFoods/main) ![Steam Downloads](https://img.shields.io/steam/downloads/3011278702) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/CallMeMarcellino/GoldenFoods) ![GitHub issues](https://img.shields.io/github/issues/CallMeMarcellino/GoldenFoods)
 
-<!--- The Steam download doesn't work (because I haven't put this on workshop yet). Once I do, I'll make sure to replace this with a working link. -->
-
 A Stacklands mod that allows you to create a golden variant of every food in Stacklands
 
 ![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
