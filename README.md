@@ -1,6 +1,6 @@
 # Golden Foods
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/CallMeMarcellino/GoldenFoods/main) ![Discord](https://img.shields.io/discord/1105707559526092820) ![Steam Downloads](https://img.shields.io/steam/downloads/3011278702) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/CallMeMarcellino/GoldenFoods) ![GitHub issues](https://img.shields.io/github/issues/CallMeMarcellino/GoldenFoods)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/CallMeMarcellino/GoldenFoods/main) ![Steam Downloads](https://img.shields.io/steam/downloads/3011278702) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/CallMeMarcellino/GoldenFoods) ![GitHub issues](https://img.shields.io/github/issues/CallMeMarcellino/GoldenFoods)
 
 <!--- The Steam download doesn't work (because I haven't put this on workshop yet). Once I do, I'll make sure to replace this with a working link. -->
 
